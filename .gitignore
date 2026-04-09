@@ -1,0 +1,15 @@
+# Dataset files (too large for GitHub — download separately from Kaggle)
+data/*.csv
+data/*.xlsx
+
+# MATLAB output files
+*.mat
+*.asv
+*.m~
+
+# MATLAB figures
+*.fig
+
+# OS files
+.DS_Store
+Thumbs.db
